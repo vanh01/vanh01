@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anh</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 
+<h4 align="center">
+  <q>There is no secret to becoming the best programmer, the only secret is to learn, practice and code persistently every day</q>
+</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanh01&label=Profile%20views&color=0e75b6&style=flat" alt="vanh01" /> </p>
 
 <h3 align="left">Connect with me:</h3>
